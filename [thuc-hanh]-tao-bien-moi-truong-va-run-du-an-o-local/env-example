@@ -1,0 +1,10 @@
+DATABASE_HOST = ''
+DATABASE_PORT = ''
+DATABASE_USERNAME = ''
+DATABASE_PASSWORD = ''
+DATABASE_NAME = ''
+NODE_ENV = ''
+APP_HOST = ''
+APP_PORT = ''
+
+mongodb+srv://khuongle:1234@posts.meidn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
